@@ -116,7 +116,8 @@ Power BI dashboard includes:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/Blinkit-Sales-analysis.git
+git clone https://github.com/Mohansaini509/Binkit-sales-analysis-python-sql-powerBI.git
+
 ```
 
 2. Ingest data:
