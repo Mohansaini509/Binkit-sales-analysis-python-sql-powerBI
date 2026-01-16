@@ -126,7 +126,7 @@ python scripts/ingestion_db.py
 
 3. Create summary table:
 ```
-python scripts/get_blinkit_summary.py
+python scripts/get_ingestion_db.py
 ```
 
 4. Run notebooks:
