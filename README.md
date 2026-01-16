@@ -116,7 +116,7 @@ Power BI dashboard includes:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+git clone https://github.com/yourusername/Blinkit-sales-analysis.git
 ```
 
 2. Ingest data:
