@@ -62,7 +62,7 @@ vendor-performance-analysis/
 │
 ├── scripts/
 │   ├── ingestion_db.py
-│   └── get_blinkit_summary.py
+│   └── get_ingestion_db.py
 │
 ├── dashboard/
 │   └── blinkit_sales_dashboard.pbix
