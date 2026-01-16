@@ -153,4 +153,4 @@ python scripts/get_ingestion_db.py
 Data Analyst  
 
 📧 Email: mohan1486saini@gmail.com  
-🔗 LinkedIn: Add your LinkedIn profile link
+🔗 LinkedIn: https://www.linkedin.com/in/mohan-saini-69727828b
