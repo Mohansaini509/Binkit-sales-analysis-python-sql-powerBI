@@ -92,7 +92,7 @@ vendor-performance-analysis/
 
 ## 🔍 Research Questions & Key Findings
 
-- **Brands for Promotion**: 110 brands with low sales but high profit margins
+- **Brands for Promotion**: 23 brands that give 8% to 10% profitMargin
 - **Top Categories**: Top 5 categories contribute 56.83% of total sales
 - **Order Size Impact**: Medium-sized orders provide better cost savings
 - **Category Profitability**:
